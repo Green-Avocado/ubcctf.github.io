@@ -6,4 +6,4 @@ website: https://jamvie.net/
 website_title: jamvie.net
 layout: author
 ---
-Cache poisoner. Unintentionally breaks docker containers in her spare time.
+Cookie stealer and web ssrfer. She likes poisoning appcaches.
